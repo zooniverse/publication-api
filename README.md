@@ -23,3 +23,4 @@ You can browse the API by just visiting `http://localhost:8000/`.
 * `/publications/` - returns all publications.
 * `/publications/?type=paper` - returns only papers.
 * `/publications/?type=data` - returns on data sets.
+* `/publications/<UUID>/` - returns a specific publication by UUID.
